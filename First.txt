@@ -1,0 +1,3 @@
+$git onfig --global user.name "Rajeshkrpreet55"
+$git config --global user.email "rajeshkumarpreet@gmail.com"
+$ git list
